@@ -3,7 +3,7 @@
 /**********************************/
 body {
     color: #666666;
-    background: #F6D155;
+    background: #000000;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -47,7 +47,7 @@ a:focus {
     width: 100%;
     padding: 15px;
     float: left;
-    background: #F6D155;
+    background: #000000;
 }
 
 .wrapper .sidebar-header,
@@ -314,7 +314,7 @@ a:focus {
 
 .header .content-inner {
     padding: 100px 30px;
-    background: url(../img/profile.png) right bottom no-repeat;
+    background: url(../img/IMG20231216114244.jpg) right bottom no-repeat;
     background-size: contain;
 }
 
